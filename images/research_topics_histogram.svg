@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-06T15:55:38.263346</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1152 648 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 436 167.2 
+L 516 167.2 
+Q 520 167.2 520 171.2 
+L 520 201.6 
+Q 520 205.6 516 205.6 
+L 436 205.6 
+Q 432 205.6 432 201.6 
+L 432 171.2 
+Q 432 167.2 436 167.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #f1f5f9"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 536 167.2 
+L 616 167.2 
+Q 620 167.2 620 171.2 
+L 620 201.6 
+Q 620 205.6 616 205.6 
+L 536 205.6 
+Q 532 205.6 532 201.6 
+L 532 171.2 
+Q 532 167.2 536 167.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #0c4671"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 636 167.2 
+L 716 167.2 
+Q 720 167.2 720 171.2 
+L 720 201.6 
+Q 720 205.6 716 205.6 
+L 636 205.6 
+Q 632 205.6 632 201.6 
+L 632 171.2 
+Q 632 167.2 636 167.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #96c6da"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 772 172.8 
+L 944.8 172.8 
+L 944.8 200 
+L 772 200 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00629b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 944.8 172.8 
+L 988 172.8 
+L 988 200 
+L 944.8 200 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 436 216.8 
+L 516 216.8 
+Q 520 216.8 520 220.8 
+L 520 251.2 
+Q 520 255.2 516 255.2 
+L 436 255.2 
+Q 432 255.2 432 251.2 
+L 432 220.8 
+Q 432 216.8 436 216.8 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #dcecf3"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 536 216.8 
+L 616 216.8 
+Q 620 216.8 620 220.8 
+L 620 251.2 
+Q 620 255.2 616 255.2 
+L 536 255.2 
+Q 532 255.2 532 251.2 
+L 532 220.8 
+Q 532 216.8 536 216.8 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 636 216.8 
+L 716 216.8 
+Q 720 216.8 720 220.8 
+L 720 251.2 
+Q 720 255.2 716 255.2 
+L 636 255.2 
+Q 632 255.2 632 251.2 
+L 632 220.8 
+Q 632 216.8 636 216.8 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #182b49"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 772 222.4 
+L 966.4 222.4 
+L 966.4 249.6 
+L 772 249.6 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00629b"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 966.4 222.4 
+L 1009.6 222.4 
+L 1009.6 249.6 
+L 966.4 249.6 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 436 266.4 
+L 516 266.4 
+Q 520 266.4 520 270.4 
+L 520 300.8 
+Q 520 304.8 516 304.8 
+L 436 304.8 
+Q 432 304.8 432 300.8 
+L 432 270.4 
+Q 432 266.4 436 266.4 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #96c6da"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 536 266.4 
+L 616 266.4 
+Q 620 266.4 620 270.4 
+L 620 300.8 
+Q 620 304.8 616 304.8 
+L 536 304.8 
+Q 532 304.8 532 300.8 
+L 532 270.4 
+Q 532 266.4 536 266.4 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 636 266.4 
+L 716 266.4 
+Q 720 266.4 720 270.4 
+L 720 300.8 
+Q 720 304.8 716 304.8 
+L 636 304.8 
+Q 632 304.8 632 300.8 
+L 632 270.4 
+Q 632 266.4 636 266.4 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #65a8c7"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 772 272 
+L 858.4 272 
+L 858.4 299.2 
+L 772 299.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00629b"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 858.4 272 
+L 966.4 272 
+L 966.4 299.2 
+L 858.4 299.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 436 316 
+L 516 316 
+Q 520 316 520 320 
+L 520 350.4 
+Q 520 354.4 516 354.4 
+L 436 354.4 
+Q 432 354.4 432 350.4 
+L 432 320 
+Q 432 316 436 316 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #dcecf3"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 536 316 
+L 616 316 
+Q 620 316 620 320 
+L 620 350.4 
+Q 620 354.4 616 354.4 
+L 536 354.4 
+Q 532 354.4 532 350.4 
+L 532 320 
+Q 532 316 536 316 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #dcecf3"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 636 316 
+L 716 316 
+Q 720 316 720 320 
+L 720 350.4 
+Q 720 354.4 716 354.4 
+L 636 354.4 
+Q 632 354.4 632 350.4 
+L 632 320 
+Q 632 316 636 316 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #96c6da"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 772 321.6 
+L 858.4 321.6 
+L 858.4 348.8 
+L 772 348.8 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00629b"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 858.4 321.6 
+L 880 321.6 
+L 880 348.8 
+L 858.4 348.8 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 436 365.6 
+L 516 365.6 
+Q 520 365.6 520 369.6 
+L 520 400 
+Q 520 404 516 404 
+L 436 404 
+Q 432 404 432 400 
+L 432 369.6 
+Q 432 365.6 436 365.6 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #dcecf3"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 536 365.6 
+L 616 365.6 
+Q 620 365.6 620 369.6 
+L 620 400 
+Q 620 404 616 404 
+L 536 404 
+Q 532 404 532 400 
+L 532 369.6 
+Q 532 365.6 536 365.6 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #96c6da"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 636 365.6 
+L 716 365.6 
+Q 720 365.6 720 369.6 
+L 720 400 
+Q 720 404 716 404 
+L 636 404 
+Q 632 404 632 400 
+L 632 369.6 
+Q 632 365.6 636 365.6 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #dcecf3"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 772 371.2 
+L 880 371.2 
+L 880 398.4 
+L 772 398.4 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00629b"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 436 415.2 
+L 516 415.2 
+Q 520 415.2 520 419.2 
+L 520 449.6 
+Q 520 453.6 516 453.6 
+L 436 453.6 
+Q 432 453.6 432 449.6 
+L 432 419.2 
+Q 432 415.2 436 415.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #dcecf3"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 536 415.2 
+L 616 415.2 
+Q 620 415.2 620 419.2 
+L 620 449.6 
+Q 620 453.6 616 453.6 
+L 536 453.6 
+Q 532 453.6 532 449.6 
+L 532 419.2 
+Q 532 415.2 536 415.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #dcecf3"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 636 415.2 
+L 716 415.2 
+Q 720 415.2 720 419.2 
+L 720 449.6 
+Q 720 453.6 716 453.6 
+L 636 453.6 
+Q 632 453.6 632 449.6 
+L 632 419.2 
+Q 632 415.2 636 415.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 772 420.8 
+L 836.8 420.8 
+L 836.8 448 
+L 772 448 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00629b"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 836.8 420.8 
+L 858.4 420.8 
+L 858.4 448 
+L 836.8 448 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 436 464.8 
+L 516 464.8 
+Q 520 464.8 520 468.8 
+L 520 499.2 
+Q 520 503.2 516 503.2 
+L 436 503.2 
+Q 432 503.2 432 499.2 
+L 432 468.8 
+Q 432 464.8 436 464.8 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 536 464.8 
+L 616 464.8 
+Q 620 464.8 620 468.8 
+L 620 499.2 
+Q 620 503.2 616 503.2 
+L 536 503.2 
+Q 532 503.2 532 499.2 
+L 532 468.8 
+Q 532 464.8 536 464.8 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #f1f5f9"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 636 464.8 
+L 716 464.8 
+Q 720 464.8 720 468.8 
+L 720 499.2 
+Q 720 503.2 716 503.2 
+L 636 503.2 
+Q 632 503.2 632 499.2 
+L 632 468.8 
+Q 632 464.8 636 464.8 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #f1f5f9"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 772 470.4 
+L 815.2 470.4 
+L 815.2 497.6 
+L 772 497.6 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00629b"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 139.2 548.8 
+L 157.6 548.8 
+L 157.6 563.2 
+L 139.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #f1f5f9"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 159.2 548.8 
+L 177.6 548.8 
+L 177.6 563.2 
+L 159.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #dcecf3"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 179.2 548.8 
+L 197.6 548.8 
+L 197.6 563.2 
+L 179.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 199.2 548.8 
+L 217.6 548.8 
+L 217.6 563.2 
+L 199.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #96c6da"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 219.2 548.8 
+L 237.6 548.8 
+L 237.6 563.2 
+L 219.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #65a8c7"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 239.2 548.8 
+L 257.6 548.8 
+L 257.6 563.2 
+L 239.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #3285b1"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 259.2 548.8 
+L 277.6 548.8 
+L 277.6 563.2 
+L 259.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00619a"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 279.2 548.8 
+L 297.6 548.8 
+L 297.6 563.2 
+L 279.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #0c4671"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 299.2 548.8 
+L 317.6 548.8 
+L 317.6 563.2 
+L 299.2 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #182b49"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 772 548.8 
+L 790.4 548.8 
+L 790.4 563.2 
+L 772 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #00629b"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 940 548.8 
+L 958.4 548.8 
+L 958.4 563.2 
+L 940 563.2 
+z
+" clip-path="url(#pf3b20c637b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 48 111.2 
+L 1104 111.2 
+" clip-path="url(#pf3b20c637b)" style="fill: none; stroke: #dae2ea; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 772 510.4 
+L 1052.8 510.4 
+" clip-path="url(#pf3b20c637b)" style="fill: none; stroke: #d9e2eb; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 48 581.6 
+L 1104 581.6 
+" clip-path="url(#pf3b20c637b)" style="fill: none; stroke: #dae2ea; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 30px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="48" y="53.357813" transform="rotate(-0 48 53.357813)">Research at a Glance</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="48" y="85.196094" transform="rotate(-0 48 85.196094)">Publications and preprints by research area, 2024–2026</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="48" y="146.561719" transform="rotate(-0 48 146.561719)">RESEARCH AREA</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="147.596094" transform="rotate(-0 476 147.596094)">2024</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="147.596094" transform="rotate(-0 576 147.596094)">2025</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="147.596094" transform="rotate(-0 676 147.596094)">2026</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="772" y="146.561719" transform="rotate(-0 772 146.561719)">THREE-YEAR TOTAL</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="191.313281" transform="rotate(-0 52.8 191.313281)">Memory System &amp; Architecture</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="191.830469" transform="rotate(-0 476 191.830469)">0</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="576" y="191.830469" transform="rotate(-0 576 191.830469)">7</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="191.830469" transform="rotate(-0 676 191.830469)">3</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="858.4" y="190.796094" transform="rotate(-0 858.4 190.796094)">8</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="966.4" y="190.796094" transform="rotate(-0 966.4 190.796094)">2</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="998.4" y="191.830469" transform="rotate(-0 998.4 191.830469)">10</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="240.913281" transform="rotate(-0 52.8 240.913281)">Agentic AI Systems</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="241.430469" transform="rotate(-0 476 241.430469)">1</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="241.430469" transform="rotate(-0 576 241.430469)">2</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="676" y="241.430469" transform="rotate(-0 676 241.430469)">8</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="869.2" y="240.396094" transform="rotate(-0 869.2 240.396094)">9</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="988" y="240.396094" transform="rotate(-0 988 240.396094)">2</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="1020" y="241.430469" transform="rotate(-0 1020 241.430469)">11</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="290.513281" transform="rotate(-0 52.8 290.513281)">Efficient ML</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="291.030469" transform="rotate(-0 476 291.030469)">3</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="291.030469" transform="rotate(-0 576 291.030469)">2</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="291.030469" transform="rotate(-0 676 291.030469)">4</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="815.2" y="289.996094" transform="rotate(-0 815.2 289.996094)">4</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="912.4" y="289.996094" transform="rotate(-0 912.4 289.996094)">5</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="976.8" y="291.030469" transform="rotate(-0 976.8 291.030469)">9</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="340.113281" transform="rotate(-0 52.8 340.113281)">AI for Chip Design and Verification</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="340.630469" transform="rotate(-0 476 340.630469)">1</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="340.630469" transform="rotate(-0 576 340.630469)">1</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="340.630469" transform="rotate(-0 676 340.630469)">3</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="815.2" y="339.596094" transform="rotate(-0 815.2 339.596094)">4</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="869.2" y="339.596094" transform="rotate(-0 869.2 339.596094)">1</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="890.4" y="340.630469" transform="rotate(-0 890.4 340.630469)">5</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="389.713281" transform="rotate(-0 52.8 389.713281)">Smart Applications</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="390.230469" transform="rotate(-0 476 390.230469)">1</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="390.230469" transform="rotate(-0 576 390.230469)">3</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="390.230469" transform="rotate(-0 676 390.230469)">1</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="826" y="389.196094" transform="rotate(-0 826 389.196094)">5</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="890.4" y="390.230469" transform="rotate(-0 890.4 390.230469)">5</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="439.313281" transform="rotate(-0 52.8 439.313281)">AI for Software Programming</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="439.830469" transform="rotate(-0 476 439.830469)">1</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="439.830469" transform="rotate(-0 576 439.830469)">1</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="439.830469" transform="rotate(-0 676 439.830469)">2</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="804.4" y="438.796094" transform="rotate(-0 804.4 438.796094)">3</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="847.6" y="438.796094" transform="rotate(-0 847.6 438.796094)">1</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="868.8" y="439.830469" transform="rotate(-0 868.8 439.830469)">4</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="488.913281" transform="rotate(-0 52.8 488.913281)">Other</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="489.430469" transform="rotate(-0 476 489.430469)">2</text>
+   </g>
+   <g id="text_51">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="489.430469" transform="rotate(-0 576 489.430469)">0</text>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="489.430469" transform="rotate(-0 676 489.430469)">0</text>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="793.6" y="488.396094" transform="rotate(-0 793.6 488.396094)">2</text>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="825.6" y="489.430469" transform="rotate(-0 825.6 489.430469)">2</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="772" y="527.903125" transform="rotate(-0 772 527.903125)">0</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="858.4" y="527.903125" transform="rotate(-0 858.4 527.903125)">4</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="944.8" y="527.903125" transform="rotate(-0 944.8 527.903125)">8</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="1031.2" y="527.903125" transform="rotate(-0 1031.2 527.903125)">12</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="48" y="559.103125" transform="rotate(-0 48 559.103125)">Annual count</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 11px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: end; fill: #64748b" x="132.8" y="558.844531" transform="rotate(-0 132.8 558.844531)">0</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 11px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="325.6" y="558.844531" transform="rotate(-0 325.6 558.844531)">8</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="798.4" y="559.361719" transform="rotate(-0 798.4 559.361719)">Publications</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="966.4" y="559.361719" transform="rotate(-0 966.4 559.361719)">Preprints</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="48" y="604.961719" transform="rotate(-0 48 604.961719)">Papers may contribute to multiple research areas; topic counts are not additive.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf3b20c637b">
+   <rect x="0" y="0" width="1152" height="648"/>
+  </clipPath>
+ </defs>
+</svg>
