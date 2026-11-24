@@ -40,7 +40,7 @@ Q 432 205.6 432 201.6
 L 432 171.2 
 Q 432 167.2 436 167.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #e1eef4"/>
+" clip-path="url(#p407a67141b)" style="fill: #e2eff5"/>
    </g>
    <g id="patch_3">
     <path d="M 536 167.2 
@@ -53,7 +53,7 @@ Q 532 205.6 532 201.6
 L 532 171.2 
 Q 532 167.2 536 167.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #d0e7ef"/>
+" clip-path="url(#p407a67141b)" style="fill: #d3e8f0"/>
    </g>
    <g id="patch_4">
     <path d="M 636 167.2 
@@ -70,17 +70,17 @@ z
    </g>
    <g id="patch_5">
     <path d="M 772 172.8 
-L 966.4 172.8 
-L 966.4 200 
+L 952 172.8 
+L 952 200 
 L 772 200 
 z
 " clip-path="url(#p407a67141b)" style="fill: #00629b"/>
    </g>
    <g id="patch_6">
-    <path d="M 966.4 172.8 
-L 1052.8 172.8 
-L 1052.8 200 
-L 966.4 200 
+    <path d="M 952 172.8 
+L 1052 172.8 
+L 1052 200 
+L 952 200 
 z
 " clip-path="url(#p407a67141b)" style="fill: #c8e3ed"/>
    </g>
@@ -108,7 +108,7 @@ Q 532 255.2 532 251.2
 L 532 220.8 
 Q 532 216.8 536 216.8 
 z
-" clip-path="url(#p407a67141b)" style="fill: #1470a3"/>
+" clip-path="url(#p407a67141b)" style="fill: #2f83af"/>
    </g>
    <g id="patch_9">
     <path d="M 636 216.8 
@@ -121,21 +121,21 @@ Q 632 255.2 632 251.2
 L 632 220.8 
 Q 632 216.8 636 216.8 
 z
-" clip-path="url(#p407a67141b)" style="fill: #b5d8e6"/>
+" clip-path="url(#p407a67141b)" style="fill: #c0deea"/>
    </g>
    <g id="patch_10">
     <path d="M 772 222.4 
-L 944.8 222.4 
-L 944.8 249.6 
+L 932 222.4 
+L 932 249.6 
 L 772 249.6 
 z
 " clip-path="url(#p407a67141b)" style="fill: #00629b"/>
    </g>
    <g id="patch_11">
-    <path d="M 944.8 222.4 
-L 988 222.4 
-L 988 249.6 
-L 944.8 249.6 
+    <path d="M 932 222.4 
+L 972 222.4 
+L 972 249.6 
+L 932 249.6 
 z
 " clip-path="url(#p407a67141b)" style="fill: #c8e3ed"/>
    </g>
@@ -150,7 +150,7 @@ Q 432 304.8 432 300.8
 L 432 270.4 
 Q 432 266.4 436 266.4 
 z
-" clip-path="url(#p407a67141b)" style="fill: #b5d8e6"/>
+" clip-path="url(#p407a67141b)" style="fill: #c0deea"/>
    </g>
    <g id="patch_13">
     <path d="M 536 266.4 
@@ -163,7 +163,7 @@ Q 532 304.8 532 300.8
 L 532 270.4 
 Q 532 266.4 536 266.4 
 z
-" clip-path="url(#p407a67141b)" style="fill: #d0e7ef"/>
+" clip-path="url(#p407a67141b)" style="fill: #d3e8f0"/>
    </g>
    <g id="patch_14">
     <path d="M 636 266.4 
@@ -176,21 +176,21 @@ Q 632 304.8 632 300.8
 L 632 270.4 
 Q 632 266.4 636 266.4 
 z
-" clip-path="url(#p407a67141b)" style="fill: #8dc0d6"/>
+" clip-path="url(#p407a67141b)" style="fill: #9bc8dc"/>
    </g>
    <g id="patch_15">
     <path d="M 772 272 
-L 858.4 272 
-L 858.4 299.2 
+L 852 272 
+L 852 299.2 
 L 772 299.2 
 z
 " clip-path="url(#p407a67141b)" style="fill: #00629b"/>
    </g>
    <g id="patch_16">
-    <path d="M 858.4 272 
-L 966.4 272 
-L 966.4 299.2 
-L 858.4 299.2 
+    <path d="M 852 272 
+L 952 272 
+L 952 299.2 
+L 852 299.2 
 z
 " clip-path="url(#p407a67141b)" style="fill: #c8e3ed"/>
    </g>
@@ -205,7 +205,7 @@ Q 432 354.4 432 350.4
 L 432 320 
 Q 432 316 436 316 
 z
-" clip-path="url(#p407a67141b)" style="fill: #e1eef4"/>
+" clip-path="url(#p407a67141b)" style="fill: #e2eff5"/>
    </g>
    <g id="patch_18">
     <path d="M 536 316 
@@ -218,7 +218,7 @@ Q 532 354.4 532 350.4
 L 532 320 
 Q 532 316 536 316 
 z
-" clip-path="url(#p407a67141b)" style="fill: #e1eef4"/>
+" clip-path="url(#p407a67141b)" style="fill: #e2eff5"/>
    </g>
    <g id="patch_19">
     <path d="M 636 316 
@@ -231,21 +231,21 @@ Q 632 354.4 632 350.4
 L 632 320 
 Q 632 316 636 316 
 z
-" clip-path="url(#p407a67141b)" style="fill: #8dc0d6"/>
+" clip-path="url(#p407a67141b)" style="fill: #9bc8dc"/>
    </g>
    <g id="patch_20">
     <path d="M 772 321.6 
-L 858.4 321.6 
-L 858.4 348.8 
+L 852 321.6 
+L 852 348.8 
 L 772 348.8 
 z
 " clip-path="url(#p407a67141b)" style="fill: #00629b"/>
    </g>
    <g id="patch_21">
-    <path d="M 858.4 321.6 
-L 901.6 321.6 
-L 901.6 348.8 
-L 858.4 348.8 
+    <path d="M 852 321.6 
+L 892 321.6 
+L 892 348.8 
+L 852 348.8 
 z
 " clip-path="url(#p407a67141b)" style="fill: #c8e3ed"/>
    </g>
@@ -260,7 +260,7 @@ Q 432 404 432 400
 L 432 369.6 
 Q 432 365.6 436 365.6 
 z
-" clip-path="url(#p407a67141b)" style="fill: #e1eef4"/>
+" clip-path="url(#p407a67141b)" style="fill: #e2eff5"/>
    </g>
    <g id="patch_23">
     <path d="M 536 365.6 
@@ -273,7 +273,7 @@ Q 532 404 532 400
 L 532 369.6 
 Q 532 365.6 536 365.6 
 z
-" clip-path="url(#p407a67141b)" style="fill: #b5d8e6"/>
+" clip-path="url(#p407a67141b)" style="fill: #c0deea"/>
    </g>
    <g id="patch_24">
     <path d="M 636 365.6 
@@ -286,17 +286,25 @@ Q 632 404 632 400
 L 632 369.6 
 Q 632 365.6 636 365.6 
 z
-" clip-path="url(#p407a67141b)" style="fill: #e1eef4"/>
+" clip-path="url(#p407a67141b)" style="fill: #d3e8f0"/>
    </g>
    <g id="patch_25">
     <path d="M 772 371.2 
-L 880 371.2 
-L 880 398.4 
+L 872 371.2 
+L 872 398.4 
 L 772 398.4 
 z
 " clip-path="url(#p407a67141b)" style="fill: #00629b"/>
    </g>
    <g id="patch_26">
+    <path d="M 872 371.2 
+L 892 371.2 
+L 892 398.4 
+L 872 398.4 
+z
+" clip-path="url(#p407a67141b)" style="fill: #c8e3ed"/>
+   </g>
+   <g id="patch_27">
     <path d="M 436 415.2 
 L 516 415.2 
 Q 520 415.2 520 419.2 
@@ -307,9 +315,9 @@ Q 432 453.6 432 449.6
 L 432 419.2 
 Q 432 415.2 436 415.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #e1eef4"/>
+" clip-path="url(#p407a67141b)" style="fill: #e2eff5"/>
    </g>
-   <g id="patch_27">
+   <g id="patch_28">
     <path d="M 536 415.2 
 L 616 415.2 
 Q 620 415.2 620 419.2 
@@ -320,9 +328,9 @@ Q 532 453.6 532 449.6
 L 532 419.2 
 Q 532 415.2 536 415.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #e1eef4"/>
+" clip-path="url(#p407a67141b)" style="fill: #e2eff5"/>
    </g>
-   <g id="patch_28">
+   <g id="patch_29">
     <path d="M 636 415.2 
 L 716 415.2 
 Q 720 415.2 720 419.2 
@@ -333,25 +341,25 @@ Q 632 453.6 632 449.6
 L 632 419.2 
 Q 632 415.2 636 415.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #d0e7ef"/>
+" clip-path="url(#p407a67141b)" style="fill: #d3e8f0"/>
    </g>
-   <g id="patch_29">
+   <g id="patch_30">
     <path d="M 772 420.8 
-L 836.8 420.8 
-L 836.8 448 
+L 832 420.8 
+L 832 448 
 L 772 448 
 z
 " clip-path="url(#p407a67141b)" style="fill: #00629b"/>
    </g>
-   <g id="patch_30">
-    <path d="M 836.8 420.8 
-L 858.4 420.8 
-L 858.4 448 
-L 836.8 448 
+   <g id="patch_31">
+    <path d="M 832 420.8 
+L 852 420.8 
+L 852 448 
+L 832 448 
 z
 " clip-path="url(#p407a67141b)" style="fill: #c8e3ed"/>
    </g>
-   <g id="patch_31">
+   <g id="patch_32">
     <path d="M 436 464.8 
 L 516 464.8 
 Q 520 464.8 520 468.8 
@@ -362,9 +370,9 @@ Q 432 503.2 432 499.2
 L 432 468.8 
 Q 432 464.8 436 464.8 
 z
-" clip-path="url(#p407a67141b)" style="fill: #d0e7ef"/>
+" clip-path="url(#p407a67141b)" style="fill: #d3e8f0"/>
    </g>
-   <g id="patch_32">
+   <g id="patch_33">
     <path d="M 536 464.8 
 L 616 464.8 
 Q 620 464.8 620 468.8 
@@ -377,7 +385,7 @@ Q 532 464.8 536 464.8
 z
 " clip-path="url(#p407a67141b)" style="fill: #f1f5f9"/>
    </g>
-   <g id="patch_33">
+   <g id="patch_34">
     <path d="M 636 464.8 
 L 716 464.8 
 Q 720 464.8 720 468.8 
@@ -390,15 +398,15 @@ Q 632 464.8 636 464.8
 z
 " clip-path="url(#p407a67141b)" style="fill: #f1f5f9"/>
    </g>
-   <g id="patch_34">
+   <g id="patch_35">
     <path d="M 772 470.4 
-L 815.2 470.4 
-L 815.2 497.6 
+L 812 470.4 
+L 812 497.6 
 L 772 497.6 
 z
 " clip-path="url(#p407a67141b)" style="fill: #00629b"/>
    </g>
-   <g id="patch_35">
+   <g id="patch_36">
     <path d="M 139.2 548.8 
 L 157.6 548.8 
 L 157.6 563.2 
@@ -406,87 +414,95 @@ L 139.2 563.2
 z
 " clip-path="url(#p407a67141b)" style="fill: #f1f5f9"/>
    </g>
-   <g id="patch_36">
+   <g id="patch_37">
     <path d="M 159.2 548.8 
 L 177.6 548.8 
 L 177.6 563.2 
 L 159.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #e1eef4"/>
+" clip-path="url(#p407a67141b)" style="fill: #e2eff5"/>
    </g>
-   <g id="patch_37">
+   <g id="patch_38">
     <path d="M 179.2 548.8 
 L 197.6 548.8 
 L 197.6 563.2 
 L 179.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #d0e7ef"/>
+" clip-path="url(#p407a67141b)" style="fill: #d3e8f0"/>
    </g>
-   <g id="patch_38">
+   <g id="patch_39">
     <path d="M 199.2 548.8 
 L 217.6 548.8 
 L 217.6 563.2 
 L 199.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #b5d8e6"/>
+" clip-path="url(#p407a67141b)" style="fill: #c0deea"/>
    </g>
-   <g id="patch_39">
+   <g id="patch_40">
     <path d="M 219.2 548.8 
 L 237.6 548.8 
 L 237.6 563.2 
 L 219.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #8dc0d6"/>
+" clip-path="url(#p407a67141b)" style="fill: #9bc8dc"/>
    </g>
-   <g id="patch_40">
+   <g id="patch_41">
     <path d="M 239.2 548.8 
 L 257.6 548.8 
 L 257.6 563.2 
 L 239.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #65a8c7"/>
+" clip-path="url(#p407a67141b)" style="fill: #78b3ce"/>
    </g>
-   <g id="patch_41">
+   <g id="patch_42">
     <path d="M 259.2 548.8 
 L 277.6 548.8 
 L 277.6 563.2 
 L 259.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #3d8db5"/>
+" clip-path="url(#p407a67141b)" style="fill: #549cbf"/>
    </g>
-   <g id="patch_42">
+   <g id="patch_43">
     <path d="M 279.2 548.8 
 L 297.6 548.8 
 L 297.6 563.2 
 L 279.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #1470a3"/>
+" clip-path="url(#p407a67141b)" style="fill: #2f83af"/>
    </g>
-   <g id="patch_43">
+   <g id="patch_44">
     <path d="M 299.2 548.8 
 L 317.6 548.8 
 L 317.6 563.2 
 L 299.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #05578b"/>
+" clip-path="url(#p407a67141b)" style="fill: #08689f"/>
    </g>
-   <g id="patch_44">
+   <g id="patch_45">
     <path d="M 319.2 548.8 
 L 337.6 548.8 
 L 337.6 563.2 
 L 319.2 563.2 
 z
-" clip-path="url(#p407a67141b)" style="fill: #0f4169"/>
+" clip-path="url(#p407a67141b)" style="fill: #075384"/>
    </g>
-   <g id="patch_45">
+   <g id="patch_46">
     <path d="M 339.2 548.8 
 L 357.6 548.8 
 L 357.6 563.2 
 L 339.2 563.2 
 z
+" clip-path="url(#p407a67141b)" style="fill: #0f3f67"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 359.2 548.8 
+L 377.6 548.8 
+L 377.6 563.2 
+L 359.2 563.2 
+z
 " clip-path="url(#p407a67141b)" style="fill: #182b49"/>
    </g>
-   <g id="patch_46">
+   <g id="patch_48">
     <path d="M 772 548.8 
 L 790.4 548.8 
 L 790.4 563.2 
@@ -494,7 +510,7 @@ L 772 563.2
 z
 " clip-path="url(#p407a67141b)" style="fill: #00629b"/>
    </g>
-   <g id="patch_47">
+   <g id="patch_49">
     <path d="M 940 548.8 
 L 958.4 548.8 
 L 958.4 563.2 
@@ -509,7 +525,7 @@ L 1104 111.2
    </g>
    <g id="line2d_2">
     <path d="M 772 510.4 
-L 1052.8 510.4 
+L 1052 510.4 
 " clip-path="url(#p407a67141b)" style="fill: none; stroke: #d9e2eb; stroke-linecap: square"/>
    </g>
    <g id="line2d_3">
@@ -548,16 +564,16 @@ L 1104 581.6
     <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="191.830469" transform="rotate(-0 576 191.830469)">2</text>
    </g>
    <g id="text_11">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="676" y="191.830469" transform="rotate(-0 676 191.830469)">10</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="676" y="191.830469" transform="rotate(-0 676 191.830469)">11</text>
    </g>
    <g id="text_12">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="869.2" y="190.796094" transform="rotate(-0 869.2 190.796094)">9</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="862" y="190.796094" transform="rotate(-0 862 190.796094)">9</text>
    </g>
    <g id="text_13">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="1009.6" y="190.796094" transform="rotate(-0 1009.6 190.796094)">4</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="1002" y="190.796094" transform="rotate(-0 1002 190.796094)">5</text>
    </g>
    <g id="text_14">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="1063.2" y="191.830469" transform="rotate(-0 1063.2 191.830469)">13</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="1062.4" y="191.830469" transform="rotate(-0 1062.4 191.830469)">14</text>
    </g>
    <g id="text_15">
     <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="240.913281" transform="rotate(-0 52.8 240.913281)">Memory System &amp; Architecture</text>
@@ -572,13 +588,13 @@ L 1104 581.6
     <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="241.430469" transform="rotate(-0 676 241.430469)">3</text>
    </g>
    <g id="text_19">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="858.4" y="240.396094" transform="rotate(-0 858.4 240.396094)">8</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="852" y="240.396094" transform="rotate(-0 852 240.396094)">8</text>
    </g>
    <g id="text_20">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="966.4" y="240.396094" transform="rotate(-0 966.4 240.396094)">2</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="952" y="240.396094" transform="rotate(-0 952 240.396094)">2</text>
    </g>
    <g id="text_21">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="998.4" y="241.430469" transform="rotate(-0 998.4 241.430469)">10</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="982.4" y="241.430469" transform="rotate(-0 982.4 241.430469)">10</text>
    </g>
    <g id="text_22">
     <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="290.513281" transform="rotate(-0 52.8 290.513281)">Efficient ML</text>
@@ -593,13 +609,13 @@ L 1104 581.6
     <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="291.030469" transform="rotate(-0 676 291.030469)">4</text>
    </g>
    <g id="text_26">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="815.2" y="289.996094" transform="rotate(-0 815.2 289.996094)">4</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="812" y="289.996094" transform="rotate(-0 812 289.996094)">4</text>
    </g>
    <g id="text_27">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="912.4" y="289.996094" transform="rotate(-0 912.4 289.996094)">5</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="902" y="289.996094" transform="rotate(-0 902 289.996094)">5</text>
    </g>
    <g id="text_28">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="976.8" y="291.030469" transform="rotate(-0 976.8 291.030469)">9</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="962.4" y="291.030469" transform="rotate(-0 962.4 291.030469)">9</text>
    </g>
    <g id="text_29">
     <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="340.113281" transform="rotate(-0 52.8 340.113281)">AI for Chip Design and Verification</text>
@@ -614,13 +630,13 @@ L 1104 581.6
     <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="340.630469" transform="rotate(-0 676 340.630469)">4</text>
    </g>
    <g id="text_33">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="815.2" y="339.596094" transform="rotate(-0 815.2 339.596094)">4</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="812" y="339.596094" transform="rotate(-0 812 339.596094)">4</text>
    </g>
    <g id="text_34">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="880" y="339.596094" transform="rotate(-0 880 339.596094)">2</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="872" y="339.596094" transform="rotate(-0 872 339.596094)">2</text>
    </g>
    <g id="text_35">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="912" y="340.630469" transform="rotate(-0 912 340.630469)">6</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="902.4" y="340.630469" transform="rotate(-0 902.4 340.630469)">6</text>
    </g>
    <g id="text_36">
     <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="389.713281" transform="rotate(-0 52.8 389.713281)">Smart Applications</text>
@@ -632,81 +648,84 @@ L 1104 581.6
     <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="390.230469" transform="rotate(-0 576 390.230469)">3</text>
    </g>
    <g id="text_39">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="390.230469" transform="rotate(-0 676 390.230469)">1</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="390.230469" transform="rotate(-0 676 390.230469)">2</text>
    </g>
    <g id="text_40">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="826" y="389.196094" transform="rotate(-0 826 389.196094)">5</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="822" y="389.196094" transform="rotate(-0 822 389.196094)">5</text>
    </g>
    <g id="text_41">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="890.4" y="390.230469" transform="rotate(-0 890.4 390.230469)">5</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="882" y="389.196094" transform="rotate(-0 882 389.196094)">1</text>
    </g>
    <g id="text_42">
-    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="439.313281" transform="rotate(-0 52.8 439.313281)">AI for Software Programming</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="902.4" y="390.230469" transform="rotate(-0 902.4 390.230469)">6</text>
    </g>
    <g id="text_43">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="439.830469" transform="rotate(-0 476 439.830469)">1</text>
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="439.313281" transform="rotate(-0 52.8 439.313281)">AI for Software Programming</text>
    </g>
    <g id="text_44">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="439.830469" transform="rotate(-0 576 439.830469)">1</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="439.830469" transform="rotate(-0 476 439.830469)">1</text>
    </g>
    <g id="text_45">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="439.830469" transform="rotate(-0 676 439.830469)">2</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="439.830469" transform="rotate(-0 576 439.830469)">1</text>
    </g>
    <g id="text_46">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="804.4" y="438.796094" transform="rotate(-0 804.4 438.796094)">3</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="439.830469" transform="rotate(-0 676 439.830469)">2</text>
    </g>
    <g id="text_47">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="847.6" y="438.796094" transform="rotate(-0 847.6 438.796094)">1</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="802" y="438.796094" transform="rotate(-0 802 438.796094)">3</text>
    </g>
    <g id="text_48">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="868.8" y="439.830469" transform="rotate(-0 868.8 439.830469)">4</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="842" y="438.796094" transform="rotate(-0 842 438.796094)">1</text>
    </g>
    <g id="text_49">
-    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="488.913281" transform="rotate(-0 52.8 488.913281)">Other</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="862.4" y="439.830469" transform="rotate(-0 862.4 439.830469)">4</text>
    </g>
    <g id="text_50">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="489.430469" transform="rotate(-0 476 489.430469)">2</text>
+    <text style="font-size: 19px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="52.8" y="488.913281" transform="rotate(-0 52.8 488.913281)">Other</text>
    </g>
    <g id="text_51">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="489.430469" transform="rotate(-0 576 489.430469)">0</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="476" y="489.430469" transform="rotate(-0 476 489.430469)">2</text>
    </g>
    <g id="text_52">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="489.430469" transform="rotate(-0 676 489.430469)">0</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="576" y="489.430469" transform="rotate(-0 576 489.430469)">0</text>
    </g>
    <g id="text_53">
-    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="793.6" y="488.396094" transform="rotate(-0 793.6 488.396094)">2</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #182b49" x="676" y="489.430469" transform="rotate(-0 676 489.430469)">0</text>
    </g>
    <g id="text_54">
-    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="825.6" y="489.430469" transform="rotate(-0 825.6 489.430469)">2</text>
+    <text style="font-weight: 700; font-size: 17px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #ffffff" x="792" y="488.396094" transform="rotate(-0 792 488.396094)">2</text>
    </g>
    <g id="text_55">
-    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="772" y="527.903125" transform="rotate(-0 772 527.903125)">0</text>
+    <text style="font-weight: 700; font-size: 21px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #182b49" x="822.4" y="489.430469" transform="rotate(-0 822.4 489.430469)">2</text>
    </g>
    <g id="text_56">
-    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="858.4" y="527.903125" transform="rotate(-0 858.4 527.903125)">4</text>
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="772" y="527.903125" transform="rotate(-0 772 527.903125)">0</text>
    </g>
    <g id="text_57">
-    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="944.8" y="527.903125" transform="rotate(-0 944.8 527.903125)">8</text>
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="852" y="527.903125" transform="rotate(-0 852 527.903125)">4</text>
    </g>
    <g id="text_58">
-    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="1031.2" y="527.903125" transform="rotate(-0 1031.2 527.903125)">12</text>
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="932" y="527.903125" transform="rotate(-0 932 527.903125)">8</text>
    </g>
    <g id="text_59">
-    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="48" y="559.103125" transform="rotate(-0 48 559.103125)">Annual count</text>
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: middle; fill: #64748b" x="1012" y="527.903125" transform="rotate(-0 1012 527.903125)">12</text>
    </g>
    <g id="text_60">
-    <text style="font-size: 11px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: end; fill: #64748b" x="132.8" y="558.844531" transform="rotate(-0 132.8 558.844531)">0</text>
+    <text style="font-size: 12px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="48" y="559.103125" transform="rotate(-0 48 559.103125)">Annual count</text>
    </g>
    <g id="text_61">
-    <text style="font-size: 11px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="365.6" y="558.844531" transform="rotate(-0 365.6 558.844531)">10</text>
+    <text style="font-size: 11px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: end; fill: #64748b" x="132.8" y="558.844531" transform="rotate(-0 132.8 558.844531)">0</text>
    </g>
    <g id="text_62">
-    <text style="font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="798.4" y="559.361719" transform="rotate(-0 798.4 559.361719)">Publications</text>
+    <text style="font-size: 11px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="385.6" y="558.844531" transform="rotate(-0 385.6 558.844531)">11</text>
    </g>
    <g id="text_63">
-    <text style="font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="966.4" y="559.361719" transform="rotate(-0 966.4 559.361719)">Preprints</text>
+    <text style="font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="798.4" y="559.361719" transform="rotate(-0 798.4 559.361719)">Publications</text>
    </g>
    <g id="text_64">
+    <text style="font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="966.4" y="559.361719" transform="rotate(-0 966.4 559.361719)">Preprints</text>
+   </g>
+   <g id="text_65">
     <text style="font-size: 13px; font-family: Arial, 'Liberation Sans', sans-serif, sans-serif; text-anchor: start; fill: #64748b" x="48" y="604.961719" transform="rotate(-0 48 604.961719)">Papers may contribute to multiple research areas; topic counts are not additive.</text>
    </g>
   </g>
